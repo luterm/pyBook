@@ -12,7 +12,9 @@ class Book:
     def change_author(self, new_author):
         self.author = new_author
 
-    def change_year(selfs, new_year):
+    def change_year(self, new_year):
         self.year = new_year
+
+
 
 
